@@ -31,6 +31,7 @@ section {
   height: 150px;
   position: relative;
   font-weight: 550;
+  overflow: auto;
 }
 #p1 {
   border: 1px solid black;
